@@ -72,7 +72,7 @@ export default class Signup extends React.Component {
           </select>
           <p>{this.state.message}</p> */}
 
-          <Link to="/">Already have an account?</Link>
+          <Link to="/">Have an account?</Link>
         </div>
 
       </div>
