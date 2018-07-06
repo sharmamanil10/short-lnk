@@ -1,9 +1,10 @@
-Short Lnk
+# Short Lnk
 
 -> A web application , save short link.
+
 -> Built on Meteor and react.
 
 
-Author
+## Author
 
 Abhishek
